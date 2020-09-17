@@ -1128,6 +1128,7 @@ Blockly.Blocks['digitalwrite'] = {
         .appendField("Value")
         .appendField(new Blockly.FieldDropdown([["1", "1"], ["0", "0"]]), "VALUE");            
     this.setPreviousStatement(true, null);
+    this.setInputsInline(true);     
     this.setNextStatement(true, null);
     this.setColour(120);
     this.setTooltip('');
