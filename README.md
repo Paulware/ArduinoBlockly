@@ -14,3 +14,4 @@ To run the program navigate to C:\Blockly\demos\code\index.html
 You can save and load projects to the desktop or other places on your computer.
 The project will generate Arduino code.   But you will also need the robotics library located here:
 
+<a href="http://Paulware.github.io/ArduinoBlockly/index.html">Docs</a>
